@@ -8,3 +8,6 @@
 
 ## Задание 3: НОД массива чисел
 - Проект: ArrayGCD
+
+## Review
+- Code review requested
